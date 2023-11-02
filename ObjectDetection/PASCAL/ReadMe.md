@@ -13,12 +13,6 @@ This repository contains a tool that facilitates the download, extraction, and v
 
 ## **Requirements**
 
-```css
-cssCopy code
-python [your_script_name].py
-
-```
-
 - **Python**: Version 3.x
 - **Libraries**: As specified in **`requirements.txt`**, which includes:
     - requests
